@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#CC3950</color>
+    <color name="colorPrimaryDark">#CC3950</color>
+    <color name="colorAccent">#F3C84A</color>
+
+    <color name="bgColor">#F9FAFC</color>
+    <color name="bgColor2">#F0F3F8</color>
+    <color name="bgColor3">#EFF2F8</color>
+    <color name="textGray">#B7C4CE</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="blue">#006BB6</color>
+    <color name="negative">#CDD9E3</color>
+    <color name="shadowButton">#959798</color>
+    <color name="textColor1">#023C5D</color>
+    <color name="textColor2">#B6C3CE</color>
+    <color name="textColor3">#033C5D</color>
+    <color name="textColor4">#D2DEE8</color>
+    <color name="textColor5">#747A7E</color>
+    <color name="textColor6">#54C8E8</color>
+    <color name="line">#EDF4F8</color>
+    <color name="indicatorColorSelected">#006BB6</color>
+    <color name="indicatorColorUnselected">#D2DEE8</color>
+    <color name="borderHome">#F2F4F9</color>
+
+    <color name="colorTransparent">#43000000</color>
+    <color name="transparent">#0000</color>
+    <color name="white_transparent">#ccffffff</color>
+    <color name="white_transparent_x">#99ffffff</color>
+    <color name="white_transparent_xx">#66ffffff</color>
+    <color name="black_transparent">#AA000000</color>
+</resources>
